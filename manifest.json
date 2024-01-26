@@ -1,0 +1,10 @@
+{
+    "name": "Emoji App",
+    "short_description": "Search for cards using Power BI",
+    "description": "Search for cards using Power BI",,
+    "author": "Pipefy, Inc.",
+    "init_url": "./",
+    "features": [
+      "pipe-buttons"
+    ]
+}
